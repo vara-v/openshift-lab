@@ -4,12 +4,33 @@ Documentation of my progress learning Red Hat OpenShift
 
 ---
 
-## Topics 
+## Table of Contents
 
+### Theory
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | [Environment Setup](./01-setup/README.md) | In Progress |
-| 02 | [Core Concepts](./02-core-concepts/README.md) | Planned |
+| T01 | [What is OpenShift?](./theory/01-what-is-openshift/README.md) | Planned |
+| T02 | [Containers & Docker Fundamentals](./theory/02-containers/README.md) |  Planned |
+| T03 | [Kubernetes Foundations](./theory/03-kubernetes/README.md) | Planned |
+| T04 | [OpenShift vs Kubernetes](./theory/04-openshift-vs-kubernetes/README.md) | Planned |
+| T05 | [OpenShift Architecture](./theory/05-architecture/README.md) | Planned |
+| T06 | [Core OpenShift Objects](./theory/06-core-objects/README.md) | Planned |
+| T07 | [Networking Model](./theory/07-networking/README.md) | Planned |
+| T08 | [Storage Model](./theory/08-storage/README.md) | Planned |
+| T09 | [Security Model](./theory/09-security/README.md) | Planned |
+| T10 | [The `oc` CLI](./theory/10-oc-cli/README.md) | Planned |
+
+###  Practical
+| # | Topic | Status |
+|---|-------|--------|
+| P01 | [Environment Setup](./practical/01-setup/README.md) | Planned |
+| P02 | [Deploying Applications](./practical/02-deployments/README.md) | Planned |
+| P03 | [Networking & Routes](./practical/03-networking/README.md) | Planned |
+| P04 | [Storage & Persistent Volumes](./practical/04-storage/README.md) | Planned |
+| P05 | [CI/CD Pipelines](./practical/05-cicd/README.md) | Planned |
+| P06 | [Security & RBAC](./practical/06-security/README.md) | Planned |
+| P07 | [Operators](./practical/07-operators/README.md) | Planned |
+
 
 ---
 
